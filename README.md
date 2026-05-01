@@ -84,6 +84,4 @@ All systems listed here can run locally without sending data to external service
 See full evaluation guide:
 https://github.com/Doc2Me-AI-Team/Can-AI-Systems-Truly-Run-Locally-for-Document-Intelligence-Evaluation-Guide-
 
----
-
 Originally published at: https://www.doc2meai.com
